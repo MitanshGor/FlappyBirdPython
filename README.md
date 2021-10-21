@@ -17,4 +17,8 @@ use ↑ or Space key to play and Esc to close the game.
 
 (For x64 windows, get exe here)
 
-ScreenShot
+##ScreenShot
+------------
+![alt text](https://github.com/MitanshGor/FlappyBirdPython/blob/main/Images/Screenshot_1.png)
+![alt text](https://github.com/MitanshGor/FlappyBirdPython/blob/main/Images/Screenshot_2.png)
+![alt text](https://github.com/MitanshGor/FlappyBirdPython/blob/main/Images/Screenshot_3.png)
